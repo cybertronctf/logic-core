@@ -1,1 +1,0 @@
-print("logic-core FIX")
