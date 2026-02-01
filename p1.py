@@ -1,1 +1,1 @@
-print("logic-core UPDATE")
+print("logic-core FIX")
