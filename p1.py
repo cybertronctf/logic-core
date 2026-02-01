@@ -1,1 +1,1 @@
-print("logic-core INSERT")
+print("logic-core UPDATE")
